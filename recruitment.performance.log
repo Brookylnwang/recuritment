@@ -171,3 +171,41 @@
 2023-04-12 11:06:49,691 interview.performance 13 INFO     0.009974479675292969 /admin/jsi18n/ {}
 2023-04-12 11:07:05,946 interview.performance 13 INFO     0.4816751480102539 /admin/interview/candidate/6/change/ {}
 2023-04-12 11:07:05,985 interview.performance 13 INFO     0.010969877243041992 /admin/jsi18n/ {}
+2023-06-01 16:04:34,970 interview.performance 13 INFO     0.04845690727233887 / {}
+2023-06-01 16:04:35,076 interview.performance 13 INFO     0.00267791748046875 /favicon.ico {}
+2023-06-01 16:07:36,373 interview.performance 13 INFO     0.006485939025878906 / {}
+2023-06-01 16:08:25,553 interview.performance 13 INFO     0.006556272506713867 / {}
+2023-06-01 16:08:40,726 interview.performance 13 INFO     0.003384828567504883 / {}
+2023-06-01 16:08:45,139 interview.performance 13 INFO     0.035729169845581055 /joblist {}
+2023-06-01 16:08:45,147 interview.performance 13 INFO     0.0020699501037597656 /joblist/ {}
+2023-06-01 16:08:50,169 interview.performance 13 INFO     0.005457878112792969 /joblist/ {}
+2023-06-01 16:08:51,354 interview.performance 13 INFO     0.0047168731689453125 / {}
+2023-06-01 16:08:54,249 interview.performance 13 INFO     0.011813163757324219 /admin {}
+2023-06-01 16:08:54,278 interview.performance 13 INFO     0.021723270416259766 /admin/ {}
+2023-06-01 16:08:54,293 interview.performance 13 INFO     0.009206056594848633 /admin/login/ {'next': '/admin/'}
+2023-06-01 16:09:04,465 interview.performance 13 INFO     0.2078390121459961 /admin/login/ {'next': '/admin/'}
+2023-06-01 16:11:20,280 interview.performance 13 INFO     0.2149190902709961 /admin/login/ {'next': '/admin/'}
+2023-06-01 16:11:22,139 interview.performance 13 INFO     0.0999441146850586 /admin/ {}
+2023-06-01 16:22:08,139 interview.performance 13 INFO     0.07570791244506836 /admin/ {}
+2023-06-01 16:22:50,164 interview.performance 13 INFO     0.004384040832519531 /admin/login/ {'next': '/admin/'}
+2023-06-01 16:22:50,241 interview.performance 13 INFO     0.07269716262817383 /admin/ {}
+2023-06-01 16:22:52,704 interview.performance 13 INFO     0.08450508117675781 /admin/ {}
+2023-06-01 16:23:16,958 interview.performance 13 INFO     0.01595592498779297 /admin/ {}
+2023-06-01 16:23:20,408 interview.performance 13 INFO     0.039453744888305664 /admin/registration/registrationprofile/ {}
+2023-06-01 16:23:20,434 interview.performance 13 INFO     0.00869297981262207 /admin/jsi18n/ {}
+2023-06-01 16:23:20,451 interview.performance 13 INFO     0.0024330615997314453 /admin/jsi18n/ {}
+2023-06-01 16:23:23,100 interview.performance 13 INFO     0.01591777801513672 /admin/jobs/job/ {}
+2023-06-01 16:23:23,127 interview.performance 13 INFO     0.006803035736083984 /admin/jsi18n/ {}
+2023-06-01 16:23:24,692 interview.performance 13 INFO     0.04530501365661621 /admin/jobs/resume/ {}
+2023-06-01 16:23:24,714 interview.performance 13 INFO     0.0024368762969970703 /admin/jsi18n/ {}
+2023-06-01 16:23:26,799 interview.performance 13 INFO     0.046511173248291016 /admin/interview/candidate/ {}
+2023-06-01 16:23:26,823 interview.performance 13 INFO     0.002619028091430664 /admin/jsi18n/ {}
+2023-06-01 16:23:29,416 interview.performance 13 INFO     0.06899881362915039 /admin/interview/candidate/add/ {}
+2023-06-01 16:23:29,444 interview.performance 13 INFO     0.006925106048583984 /admin/jsi18n/ {}
+2023-06-01 16:23:40,407 interview.performance 13 INFO     0.029393911361694336 /admin/jobs/job/add/ {}
+2023-06-01 16:23:40,454 interview.performance 13 INFO     0.004928112030029297 /admin/jsi18n/ {}
+2023-06-01 16:31:29,426 interview.performance 13 INFO     0.019622087478637695 /admin/jobs/job/add/ {}
+2023-06-01 16:31:29,445 interview.performance 13 INFO     0.014577865600585938 /admin/jobs/job/ {}
+2023-06-01 16:31:29,490 interview.performance 13 INFO     0.0065288543701171875 /admin/jsi18n/ {}
+2023-06-01 16:31:44,653 interview.performance 13 INFO     0.014004945755004883 /admin/logout/ {}
+2023-06-01 16:31:44,676 interview.performance 13 INFO     0.006381034851074219 /admin/login/ {}

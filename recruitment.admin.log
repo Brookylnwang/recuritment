@@ -1617,3 +1617,320 @@ ZeroDivisionError: division by zero
 2023-04-12 10:47:24,455 django.utils.autoreload 677 INFO     Watching for file changes with StatReloader
 2023-04-12 10:47:29,991 django.request 241 WARNING  Not Found: /favicon.ico
 2023-04-12 10:54:20,137 django.request 241 WARNING  Not Found: /jobs/
+2023-06-01 14:42:15,379 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 14:47:31,275 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 14:47:58,397 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 14:48:28,389 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 14:54:30,702 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:03:29,959 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:04:37,934 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:06:40,915 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:11:24,301 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:23:44,857 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:25:38,469 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:29:02,645 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:31:11,085 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:33:21,761 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/registration/models.py changed, reloading.
+2023-06-01 15:33:21,981 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:33:42,523 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/registration/admin.py changed, reloading.
+2023-06-01 15:33:42,718 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:34:37,281 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:41:32,702 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:48:27,960 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:51:40,645 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/registration/backends/simple/urls.py changed, reloading.
+2023-06-01 15:51:40,834 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:51:52,967 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:53:55,816 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:55:03,472 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/registration/backends/simple/urls.py changed, reloading.
+2023-06-01 15:55:03,700 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:59:34,130 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/registration/signals.py changed, reloading.
+2023-06-01 15:59:34,320 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 15:59:48,871 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/registration/forms.py changed, reloading.
+2023-06-01 15:59:49,057 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 16:00:15,006 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/registration/validators.py changed, reloading.
+2023-06-01 16:00:15,195 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 16:00:27,694 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/registration/validators.py changed, reloading.
+2023-06-01 16:00:27,873 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 16:01:08,288 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/registration/auth_urls.py changed, reloading.
+2023-06-01 16:01:08,481 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 16:01:42,675 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/registration/auth_urls_classes.py changed, reloading.
+2023-06-01 16:01:42,865 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 16:02:43,312 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 16:04:30,223 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 16:04:34,962 django.request 241 ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+KeyError: 'bootstrap4'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangsheng/PycharmProjects/recuritment/jobs/views.py", line 21, in joblist
+    return render(request, 'joblist.html', context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'bootstrap4' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+rest_framework
+simpletags
+static
+tz
+2023-06-01 16:04:35,076 django.request 241 WARNING  Not Found: /favicon.ico
+2023-06-01 16:07:32,286 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 16:08:22,157 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 16:11:11,076 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-06-01 16:11:22,134 django.request 241 ERROR    Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/loader_tags.py", line 54, in render
+    result = self.nodelist.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/defaulttags.py", line 52, in render
+    output = self.nodelist.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/library.py", line 237, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/simpleui/templatetags/simpletags.py", line 259, in menus
+    return '<script type="text/javascript">var menus={}</script>'.format(json.dumps(data, cls=LazyEncoder))
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/simpleui/templatetags/simpletags.py", line 44, in default
+    return force_text(obj)
+NameError: name 'force_text' is not defined
+2023-06-01 16:22:08,137 django.request 241 ERROR    Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/loader_tags.py", line 54, in render
+    result = self.nodelist.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/defaulttags.py", line 52, in render
+    output = self.nodelist.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/library.py", line 237, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/simpleui/templatetags/simpletags.py", line 259, in menus
+    return '<script type="text/javascript">var menus={}</script>'.format(json.dumps(data, cls=LazyEncoder))
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/simpleui/templatetags/simpletags.py", line 44, in default
+    return force_text(obj)
+NameError: name 'force_text' is not defined
+2023-06-01 16:22:50,239 django.request 241 ERROR    Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/loader_tags.py", line 54, in render
+    result = self.nodelist.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/defaulttags.py", line 52, in render
+    output = self.nodelist.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/library.py", line 237, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/simpleui/templatetags/simpletags.py", line 259, in menus
+    return '<script type="text/javascript">var menus={}</script>'.format(json.dumps(data, cls=LazyEncoder))
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/simpleui/templatetags/simpletags.py", line 44, in default
+    return force_text(obj)
+NameError: name 'force_text' is not defined
+2023-06-01 16:22:52,703 django.request 241 ERROR    Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/loader_tags.py", line 54, in render
+    result = self.nodelist.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/defaulttags.py", line 52, in render
+    output = self.nodelist.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/template/library.py", line 237, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/simpleui/templatetags/simpletags.py", line 259, in menus
+    return '<script type="text/javascript">var menus={}</script>'.format(json.dumps(data, cls=LazyEncoder))
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/simpleui/templatetags/simpletags.py", line 44, in default
+    return force_text(obj)
+NameError: name 'force_text' is not defined
+2023-06-01 16:23:13,479 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/simpleui/templatetags/simpletags.py changed, reloading.
+2023-06-01 16:23:13,673 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
