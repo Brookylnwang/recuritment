@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'jobs',
     'interview',
     'rest_framework',
+    'mef3',
 ]
 
 REST_FRAMEWORK = {
