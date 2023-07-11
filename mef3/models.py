@@ -8,7 +8,8 @@ ServerGroup = [
     (0, "WAVE1组"),
     (1, "WAVE2组"),
     (2, "DEV组"),
-    (3, "windows组")
+    (3, "windows组"),
+    (4, "AIOps组")
 ]
 
 
