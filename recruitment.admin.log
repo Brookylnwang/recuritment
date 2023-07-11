@@ -2052,3 +2052,28 @@ django.db.utils.OperationalError: no such table: mef3_mef
 2023-07-10 15:18:31,434 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
 2023-07-10 15:30:07,159 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/models.py changed, reloading.
 2023-07-10 15:30:07,424 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-11 14:18:49,667 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-11 14:18:51,748 django.request 241 WARNING  Not Found: /apple-touch-icon-precomposed.png
+2023-07-11 14:18:51,751 django.request 241 WARNING  Not Found: /apple-touch-icon.png
+2023-07-11 14:54:52,816 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-11 14:54:53,131 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-11 15:07:37,011 django.request 241 WARNING  Not Found: /favicon.ico
+2023-07-11 15:07:37,011 django.request 241 WARNING  Not Found: /apple-touch-icon-precomposed.png
+2023-07-11 15:07:37,011 django.request 241 WARNING  Not Found: /apple-touch-icon.png
+2023-07-11 15:07:53,791 interview.admin 48 ERROR    admin exported 1 candidate records
+2023-07-11 15:21:24,744 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-11 15:21:24,995 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-11 15:22:10,947 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-11 15:22:11,169 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-11 15:26:05,438 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-11 15:26:05,681 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-11 15:34:43,118 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-11 15:34:43,329 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-11 15:35:51,670 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-11 15:35:51,846 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-11 15:38:06,078 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-11 15:38:06,277 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-11 15:39:10,464 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-11 15:39:10,692 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-11 15:43:19,794 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-11 15:43:19,999 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
