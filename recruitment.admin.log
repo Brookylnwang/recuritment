@@ -2717,3 +2717,431 @@ AttributeError: module 'django.contrib.admin' has no attribute 'ACTION_CHECKBOX_
 2023-07-21 14:21:32,652 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
 2023-07-21 14:21:58,808 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
 2023-07-21 14:21:59,063 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 14:37:42,407 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 14:37:42,709 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 14:40:55,146 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 14:40:55,404 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 14:41:18,403 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 14:41:18,678 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 14:42:52,034 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 14:42:52,258 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 14:43:47,241 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 14:43:47,436 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 14:46:40,752 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 14:46:40,985 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 14:49:38,474 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 14:49:38,754 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 14:51:46,223 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 14:51:46,449 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 14:52:08,228 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 14:52:08,459 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 15:00:12,526 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 15:00:12,804 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 15:01:06,628 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 15:01:06,812 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 15:01:26,309 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 15:01:26,497 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 15:01:42,989 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 15:01:43,203 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 15:02:17,027 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 15:02:17,205 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 15:02:31,668 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 15:02:31,871 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 15:04:11,780 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 15:04:11,996 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 15:14:23,685 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 15:14:23,887 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 15:18:29,839 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 15:18:30,031 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 15:20:14,440 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 15:20:14,656 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 15:21:10,844 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 15:21:11,048 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 16:22:58,467 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 16:22:58,763 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 16:34:57,803 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 16:34:58,058 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 16:36:56,316 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 16:36:56,542 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 16:37:49,364 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 16:37:49,580 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 16:38:33,084 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 16:38:33,284 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 16:42:40,420 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 16:42:40,699 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 16:44:02,953 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 16:44:03,208 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 16:49:54,510 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 16:49:54,687 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 16:50:10,436 django.request 241 ERROR    Internal Server Error: /admin/mef3/mef/
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/views/decorators/cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1983, in changelist_view
+    response = self.response_action(
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1593, in response_action
+    response = func(self, request, queryset)
+  File "/Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py", line 40, in add_default_path
+    updated = queryset.updated(mef_report_file="/tmp/demo.mef3")
+AttributeError: 'QuerySet' object has no attribute 'updated'
+2023-07-21 16:52:28,931 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 16:52:29,231 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 16:52:36,727 django.request 241 ERROR    Internal Server Error: /admin/mef3/mef/
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/views/decorators/cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1983, in changelist_view
+    response = self.response_action(
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1593, in response_action
+    response = func(self, request, queryset)
+  File "/Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py", line 43, in add_default_path
+    ngettext(
+TypeError: unsupported operand type(s) for &: 'str' and 'int'
+2023-07-21 16:54:40,295 django.request 241 ERROR    Internal Server Error: /admin/mef3/mef/
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/views/decorators/cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1983, in changelist_view
+    response = self.response_action(
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1593, in response_action
+    response = func(self, request, queryset)
+  File "/Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py", line 43, in add_default_path
+    ngettext(
+TypeError: unsupported operand type(s) for &: 'str' and 'int'
+2023-07-21 16:55:03,361 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 16:55:03,547 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 16:55:13,013 django.request 241 ERROR    Internal Server Error: /admin/mef3/mef/
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/views/decorators/cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1983, in changelist_view
+    response = self.response_action(
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1593, in response_action
+    response = func(self, request, queryset)
+  File "/Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py", line 43, in add_default_path
+    ngettext(
+TypeError: unsupported operand type(s) for &: 'str' and 'int'
+2023-07-21 16:59:03,725 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 16:59:03,986 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 16:59:14,443 django.request 241 ERROR    Internal Server Error: /admin/mef3/mef/
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/views/decorators/cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1983, in changelist_view
+    response = self.response_action(
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1593, in response_action
+    response = func(self, request, queryset)
+  File "/Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py", line 43, in add_default_path
+    ngettext(
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/translation/__init__.py", line 99, in ngettext
+    return _trans.ngettext(singular, plural, number)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/translation/trans_real.py", line 431, in ngettext
+    return do_ntranslate(singular, plural, number, "ngettext")
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/translation/trans_real.py", line 423, in do_ntranslate
+    return getattr(_default, translation_function)(singular, plural, number)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/translation/trans_real.py", line 278, in ngettext
+    return self._fallback.ngettext(msgid1, msgid2, n)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/gettext.py", line 507, in ngettext
+    tmsg = self._catalog[(msgid1, self.plural(n))]
+  File "<string>", line 4, in func
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/gettext.py", line 167, in _as_int
+    raise TypeError('Plural value must be an integer, got %s' %
+TypeError: Plural value must be an integer, got str
+2023-07-21 16:59:50,884 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 16:59:51,110 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 17:00:01,667 django.request 241 ERROR    Internal Server Error: /admin/mef3/mef/
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/views/decorators/cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1983, in changelist_view
+    response = self.response_action(
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1593, in response_action
+    response = func(self, request, queryset)
+  File "/Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py", line 43, in add_default_path
+    ngettext(
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/translation/__init__.py", line 99, in ngettext
+    return _trans.ngettext(singular, plural, number)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/translation/trans_real.py", line 431, in ngettext
+    return do_ntranslate(singular, plural, number, "ngettext")
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/translation/trans_real.py", line 423, in do_ntranslate
+    return getattr(_default, translation_function)(singular, plural, number)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/translation/trans_real.py", line 278, in ngettext
+    return self._fallback.ngettext(msgid1, msgid2, n)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/gettext.py", line 507, in ngettext
+    tmsg = self._catalog[(msgid1, self.plural(n))]
+  File "<string>", line 4, in func
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/gettext.py", line 167, in _as_int
+    raise TypeError('Plural value must be an integer, got %s' %
+TypeError: Plural value must be an integer, got str
+2023-07-21 17:00:24,461 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 17:00:24,728 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 17:00:36,344 django.request 241 ERROR    Internal Server Error: /admin/mef3/mef/
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/views/decorators/cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1983, in changelist_view
+    response = self.response_action(
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1593, in response_action
+    response = func(self, request, queryset)
+  File "/Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py", line 43, in add_default_path
+    ngettext(
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/translation/__init__.py", line 99, in ngettext
+    return _trans.ngettext(singular, plural, number)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/translation/trans_real.py", line 431, in ngettext
+    return do_ntranslate(singular, plural, number, "ngettext")
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/translation/trans_real.py", line 423, in do_ntranslate
+    return getattr(_default, translation_function)(singular, plural, number)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/translation/trans_real.py", line 278, in ngettext
+    return self._fallback.ngettext(msgid1, msgid2, n)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/gettext.py", line 507, in ngettext
+    tmsg = self._catalog[(msgid1, self.plural(n))]
+  File "<string>", line 4, in func
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/gettext.py", line 167, in _as_int
+    raise TypeError('Plural value must be an integer, got %s' %
+TypeError: Plural value must be an integer, got str
+2023-07-21 17:01:59,903 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 17:02:00,116 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 17:02:14,587 django.request 241 ERROR    Internal Server Error: /admin/mef3/mef/
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/views/decorators/cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1983, in changelist_view
+    response = self.response_action(
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1593, in response_action
+    response = func(self, request, queryset)
+  File "/Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py", line 43, in add_default_path
+    ngettext(
+TypeError: unsupported operand type(s) for &: 'str' and 'int'
+2023-07-21 17:03:10,046 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 17:03:10,265 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 17:04:43,977 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 17:04:44,246 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 17:05:53,612 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 17:05:53,805 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 17:12:18,923 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 17:12:19,182 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-21 17:13:21,166 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-21 17:13:21,360 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 00:15:38,350 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 00:16:33,807 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 00:16:33,987 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 00:17:55,643 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 00:17:55,847 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 00:18:13,659 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 00:18:13,858 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 00:23:36,287 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 00:23:36,482 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 00:31:52,575 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 00:31:52,831 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 00:33:12,887 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 00:33:13,161 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 00:43:29,433 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 00:45:19,541 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 00:51:34,341 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/interview/admin.py changed, reloading.
+2023-07-22 00:51:34,580 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 00:52:44,981 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/interview/admin.py changed, reloading.
+2023-07-22 00:52:45,232 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 00:57:20,367 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 00:57:20,624 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 00:58:19,916 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 00:58:20,186 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 01:01:39,240 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 01:01:39,503 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 01:01:59,365 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 01:01:59,558 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 01:02:09,174 django.request 241 ERROR    Internal Server Error: /admin/mef3/mef/
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/views/decorators/cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1926, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 832, in get_changelist_instance
+    if self.get_actions(request):
+  File "/Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py", line 22, in get_actions
+    actions = super().get_actions(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1019, in get_actions
+    actions = self._filter_actions_by_permissions(request, self._get_base_actions())
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1006, in _filter_actions_by_permissions
+    if any(has_permission(request) for has_permission in permission_checks):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1006, in <genexpr>
+    if any(has_permission(request) for has_permission in permission_checks):
+  File "/Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py", line 51, in has_publish_permission
+    return request.user.has_permission("%s.%s" % (opts.app_label, codename))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/functional.py", line 268, in inner
+    return func(_wrapped, *args)
+AttributeError: 'User' object has no attribute 'has_permission'
+2023-07-22 01:02:18,536 django.request 241 ERROR    Internal Server Error: /admin/mef3/mef/
+Traceback (most recent call last):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/views/decorators/cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1926, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 832, in get_changelist_instance
+    if self.get_actions(request):
+  File "/Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py", line 22, in get_actions
+    actions = super().get_actions(request)
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1019, in get_actions
+    actions = self._filter_actions_by_permissions(request, self._get_base_actions())
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1006, in _filter_actions_by_permissions
+    if any(has_permission(request) for has_permission in permission_checks):
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/contrib/admin/options.py", line 1006, in <genexpr>
+    if any(has_permission(request) for has_permission in permission_checks):
+  File "/Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py", line 51, in has_publish_permission
+    return request.user.has_permission("%s.%s" % (opts.app_label, codename))
+  File "/Users/wangsheng/PycharmProjects/myenv/lib/python3.9/site-packages/django/utils/functional.py", line 268, in inner
+    return func(_wrapped, *args)
+AttributeError: 'User' object has no attribute 'has_permission'
+2023-07-22 01:02:52,815 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 01:02:53,105 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 01:03:38,890 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 01:03:39,088 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 01:03:57,522 root         46 INFO     这是检验信息
+2023-07-22 01:04:11,399 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 01:04:11,608 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 01:04:15,132 root         46 INFO     这是检验信息
+2023-07-22 01:04:50,184 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 01:04:50,414 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 01:05:34,055 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 01:05:34,245 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader
+2023-07-22 01:14:07,309 django.utils.autoreload 266 INFO     /Users/wangsheng/PycharmProjects/recuritment/mef3/admin.py changed, reloading.
+2023-07-22 01:14:07,517 django.utils.autoreload 668 INFO     Watching for file changes with StatReloader

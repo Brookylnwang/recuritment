@@ -59,6 +59,14 @@ class CandidateAdmin(admin.ModelAdmin):
 
     actions = [export_model_as_csv]
 
+    # 用户名不是以A开头的没有删除权限
+    def get_actions(self, request):
+        actions = super().get_actions(request)
+        if request.user.username[0].upper() != "A":
+            if "delete_selected" in actions:
+                del actions["delete_selected"]
+        return actions
+
     list_display = (
         "username", "city", "bachelor_school", "get_resume", "first_score", "first_result", "first_interviewer_user",
         "second_result", "second_interviewer_user", "hr_score", "hr_result", "last_editor"
